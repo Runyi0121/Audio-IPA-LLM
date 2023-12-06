@@ -1,0 +1,2293 @@
+{
+  "builder_name": "audiofolder",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 104365,
+  "description": "",
+  "download_checksums": {
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english1.mp3": {
+      "num_bytes": 351084,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english10.mp3": {
+      "num_bytes": 346487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english100.mp3": {
+      "num_bytes": 300929,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english101.mp3": {
+      "num_bytes": 320991,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english102.mp3": {
+      "num_bytes": 351084,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english103.mp3": {
+      "num_bytes": 269164,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english104.mp3": {
+      "num_bytes": 313886,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english105.mp3": {
+      "num_bytes": 370728,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english106.mp3": {
+      "num_bytes": 365713,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english107.mp3": {
+      "num_bytes": 399568,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english108.mp3": {
+      "num_bytes": 356936,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english109.mp3": {
+      "num_bytes": 361951,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english11.mp3": {
+      "num_bytes": 336038,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english110.mp3": {
+      "num_bytes": 429661,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english111.mp3": {
+      "num_bytes": 351920,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english112.mp3": {
+      "num_bytes": 516596,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english113.mp3": {
+      "num_bytes": 382431,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english114.mp3": {
+      "num_bytes": 334366,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english115.mp3": {
+      "num_bytes": 337292,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english116.mp3": {
+      "num_bytes": 381177,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english117.mp3": {
+      "num_bytes": 334784,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english118.mp3": {
+      "num_bytes": 311378,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english119.mp3": {
+      "num_bytes": 354010,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english12.mp3": {
+      "num_bytes": 406673,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english120.mp3": {
+      "num_bytes": 407927,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english121.mp3": {
+      "num_bytes": 353174,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english122.mp3": {
+      "num_bytes": 387865,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english123.mp3": {
+      "num_bytes": 328097,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english124.mp3": {
+      "num_bytes": 303019,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english125.mp3": {
+      "num_bytes": 286719,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english126.mp3": {
+      "num_bytes": 305109,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english127.mp3": {
+      "num_bytes": 301765,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english128.mp3": {
+      "num_bytes": 373654,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english129.mp3": {
+      "num_bytes": 303437,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english13.mp3": {
+      "num_bytes": 401657,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english130.mp3": {
+      "num_bytes": 389954,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english131.mp3": {
+      "num_bytes": 317230,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english132.mp3": {
+      "num_bytes": 351920,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english133.mp3": {
+      "num_bytes": 366131,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english134.mp3": {
+      "num_bytes": 415450,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english135.mp3": {
+      "num_bytes": 333530,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english136.mp3": {
+      "num_bytes": 338546,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english137.mp3": {
+      "num_bytes": 320573,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english138.mp3": {
+      "num_bytes": 308870,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english139.mp3": {
+      "num_bytes": 377416,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english14.mp3": {
+      "num_bytes": 307199,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english140.mp3": {
+      "num_bytes": 312214,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english141.mp3": {
+      "num_bytes": 303855,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english142.mp3": {
+      "num_bytes": 283793,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english143.mp3": {
+      "num_bytes": 401664,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english144.mp3": {
+      "num_bytes": 341471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english145.mp3": {
+      "num_bytes": 343143,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english146.mp3": {
+      "num_bytes": 369057,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english147.mp3": {
+      "num_bytes": 405419,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english148.mp3": {
+      "num_bytes": 329768,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english149.mp3": {
+      "num_bytes": 330186,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english15.mp3": {
+      "num_bytes": 442199,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english150.mp3": {
+      "num_bytes": 334366,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english151.mp3": {
+      "num_bytes": 445543,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english152.mp3": {
+      "num_bytes": 374072,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english153.mp3": {
+      "num_bytes": 373654,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english154.mp3": {
+      "num_bytes": 335620,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english155.mp3": {
+      "num_bytes": 332694,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english156.mp3": {
+      "num_bytes": 323081,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english157.mp3": {
+      "num_bytes": 303019,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english158.mp3": {
+      "num_bytes": 364459,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english159.mp3": {
+      "num_bytes": 354428,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english16.mp3": {
+      "num_bytes": 413778,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english160.mp3": {
+      "num_bytes": 350666,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english161.mp3": {
+      "num_bytes": 425088,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english162.mp3": {
+      "num_bytes": 335232,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english163.mp3": {
+      "num_bytes": 367872,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english164.mp3": {
+      "num_bytes": 416286,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english165.mp3": {
+      "num_bytes": 374490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english166.mp3": {
+      "num_bytes": 365295,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english167.mp3": {
+      "num_bytes": 366967,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english168.mp3": {
+      "num_bytes": 342725,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english169.mp3": {
+      "num_bytes": 303437,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english17.mp3": {
+      "num_bytes": 356518,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english170.mp3": {
+      "num_bytes": 382849,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english171.mp3": {
+      "num_bytes": 286719,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english172.mp3": {
+      "num_bytes": 364416,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english173.mp3": {
+      "num_bytes": 326843,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english174.mp3": {
+      "num_bytes": 434258,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english175.mp3": {
+      "num_bytes": 327679,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english176.mp3": {
+      "num_bytes": 362369,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english177.mp3": {
+      "num_bytes": 297586,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english178.mp3": {
+      "num_bytes": 441781,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english179.mp3": {
+      "num_bytes": 387865,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english18.mp3": {
+      "num_bytes": 334366,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english180.mp3": {
+      "num_bytes": 313886,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english181.mp3": {
+      "num_bytes": 359861,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english19.mp3": {
+      "num_bytes": 399568,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english2.mp3": {
+      "num_bytes": 338546,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english20.mp3": {
+      "num_bytes": 326007,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english21.mp3": {
+      "num_bytes": 264567,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english22.mp3": {
+      "num_bytes": 547525,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english23.mp3": {
+      "num_bytes": 413360,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english24.mp3": {
+      "num_bytes": 340217,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english25.mp3": {
+      "num_bytes": 371146,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english26.mp3": {
+      "num_bytes": 486921,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english27.mp3": {
+      "num_bytes": 392044,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english28.mp3": {
+      "num_bytes": 422973,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english29.mp3": {
+      "num_bytes": 522030,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english3.mp3": {
+      "num_bytes": 316812,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english30.mp3": {
+      "num_bytes": 394970,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english31.mp3": {
+      "num_bytes": 381595,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english32.mp3": {
+      "num_bytes": 361951,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english33.mp3": {
+      "num_bytes": 430079,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english34.mp3": {
+      "num_bytes": 284211,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english35.mp3": {
+      "num_bytes": 341889,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english36.mp3": {
+      "num_bytes": 336874,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english37.mp3": {
+      "num_bytes": 428407,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english38.mp3": {
+      "num_bytes": 380759,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english39.mp3": {
+      "num_bytes": 365713,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english4.mp3": {
+      "num_bytes": 576782,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english40.mp3": {
+      "num_bytes": 412106,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english41.mp3": {
+      "num_bytes": 396224,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english42.mp3": {
+      "num_bytes": 378670,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english43.mp3": {
+      "num_bytes": 342307,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english44.mp3": {
+      "num_bytes": 389119,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english45.mp3": {
+      "num_bytes": 503221,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english46.mp3": {
+      "num_bytes": 415450,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english47.mp3": {
+      "num_bytes": 403329,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english48.mp3": {
+      "num_bytes": 403329,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english49.mp3": {
+      "num_bytes": 374072,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english5.mp3": {
+      "num_bytes": 476890,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english50.mp3": {
+      "num_bytes": 373654,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english51.mp3": {
+      "num_bytes": 381177,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english52.mp3": {
+      "num_bytes": 403329,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english521.mp3": {
+      "num_bytes": 360279,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english522.mp3": {
+      "num_bytes": 299257,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english526.mp3": {
+      "num_bytes": 364459,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english527.mp3": {
+      "num_bytes": 343979,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english528.mp3": {
+      "num_bytes": 371146,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english53.mp3": {
+      "num_bytes": 384521,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english54.mp3": {
+      "num_bytes": 373654,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english55.mp3": {
+      "num_bytes": 356100,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english56.mp3": {
+      "num_bytes": 356100,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english57.mp3": {
+      "num_bytes": 407509,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english58.mp3": {
+      "num_bytes": 411688,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english59.mp3": {
+      "num_bytes": 289226,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english6.mp3": {
+      "num_bytes": 410017,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english60.mp3": {
+      "num_bytes": 347741,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english61.mp3": {
+      "num_bytes": 307199,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english62.mp3": {
+      "num_bytes": 357772,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english63.mp3": {
+      "num_bytes": 326425,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english64.mp3": {
+      "num_bytes": 385357,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english65.mp3": {
+      "num_bytes": 331022,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english66.mp3": {
+      "num_bytes": 334784,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english67.mp3": {
+      "num_bytes": 481906,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english68.mp3": {
+      "num_bytes": 347323,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english69.mp3": {
+      "num_bytes": 382431,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english7.mp3": {
+      "num_bytes": 422555,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english70.mp3": {
+      "num_bytes": 264985,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english71.mp3": {
+      "num_bytes": 369474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english72.mp3": {
+      "num_bytes": 340217,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english73.mp3": {
+      "num_bytes": 379506,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english74.mp3": {
+      "num_bytes": 310542,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english75.mp3": {
+      "num_bytes": 371712,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english76.mp3": {
+      "num_bytes": 282121,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english77.mp3": {
+      "num_bytes": 389954,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english78.mp3": {
+      "num_bytes": 374490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english79.mp3": {
+      "num_bytes": 418794,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english8.mp3": {
+      "num_bytes": 325589,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english80.mp3": {
+      "num_bytes": 359861,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english81.mp3": {
+      "num_bytes": 360279,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english82.mp3": {
+      "num_bytes": 357772,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english83.mp3": {
+      "num_bytes": 419212,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english84.mp3": {
+      "num_bytes": 362787,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english85.mp3": {
+      "num_bytes": 304691,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english86.mp3": {
+      "num_bytes": 355264,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english87.mp3": {
+      "num_bytes": 285047,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english88.mp3": {
+      "num_bytes": 319319,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english89.mp3": {
+      "num_bytes": 352756,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english9.mp3": {
+      "num_bytes": 460172,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english90.mp3": {
+      "num_bytes": 372400,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english91.mp3": {
+      "num_bytes": 326425,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english92.mp3": {
+      "num_bytes": 321827,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english93.mp3": {
+      "num_bytes": 360697,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english94.mp3": {
+      "num_bytes": 450977,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english95.mp3": {
+      "num_bytes": 359026,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english96.mp3": {
+      "num_bytes": 346905,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english97.mp3": {
+      "num_bytes": 290480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english98.mp3": {
+      "num_bytes": 337292,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/english99.mp3": {
+      "num_bytes": 353592,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/metadata.csv": {
+      "num_bytes": 92088,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/convert_dataset.py": {
+      "num_bytes": 152,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/rename_transcriptions.py": {
+      "num_bytes": 615,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english1.txt": {
+      "num_bytes": 510,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english10.txt": {
+      "num_bytes": 509,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english100.txt": {
+      "num_bytes": 470,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english101.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english102.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english103.txt": {
+      "num_bytes": 456,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english104.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english105.txt": {
+      "num_bytes": 486,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english106.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english107.txt": {
+      "num_bytes": 480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english108.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english109.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english11.txt": {
+      "num_bytes": 454,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english110.txt": {
+      "num_bytes": 452,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english111.txt": {
+      "num_bytes": 442,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english112.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english113.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english114.txt": {
+      "num_bytes": 473,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english115.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english116.txt": {
+      "num_bytes": 491,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english117.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english118.txt": {
+      "num_bytes": 480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english119.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english12.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english120.txt": {
+      "num_bytes": 463,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english121.txt": {
+      "num_bytes": 455,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english122.txt": {
+      "num_bytes": 460,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english123.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english124.txt": {
+      "num_bytes": 459,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english125.txt": {
+      "num_bytes": 454,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english126.txt": {
+      "num_bytes": 486,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english127.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english128.txt": {
+      "num_bytes": 498,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english129.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english13.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english130.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english131.txt": {
+      "num_bytes": 474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english132.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english133.txt": {
+      "num_bytes": 506,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english134.txt": {
+      "num_bytes": 498,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english135.txt": {
+      "num_bytes": 500,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english136.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english137.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english138.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english139.txt": {
+      "num_bytes": 483,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english14.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english140.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english141.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english142.txt": {
+      "num_bytes": 483,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english143.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english144.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english145.txt": {
+      "num_bytes": 490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english146.txt": {
+      "num_bytes": 527,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english147.txt": {
+      "num_bytes": 482,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english148.txt": {
+      "num_bytes": 498,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english149.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english15.txt": {
+      "num_bytes": 542,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english150.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english151.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english152.txt": {
+      "num_bytes": 515,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english153.txt": {
+      "num_bytes": 509,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english154.txt": {
+      "num_bytes": 500,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english155.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english156.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english157.txt": {
+      "num_bytes": 506,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english158.txt": {
+      "num_bytes": 504,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english159.txt": {
+      "num_bytes": 505,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english16.txt": {
+      "num_bytes": 518,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english160.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english161.txt": {
+      "num_bytes": 503,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english162.txt": {
+      "num_bytes": 494,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english163.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english164.txt": {
+      "num_bytes": 555,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english165.txt": {
+      "num_bytes": 500,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english166.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english167.txt": {
+      "num_bytes": 502,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english168.txt": {
+      "num_bytes": 501,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english169.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english17.txt": {
+      "num_bytes": 504,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english170.txt": {
+      "num_bytes": 545,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english171.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english172.txt": {
+      "num_bytes": 473,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english173.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english174.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english175.txt": {
+      "num_bytes": 500,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english176.txt": {
+      "num_bytes": 508,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english177.txt": {
+      "num_bytes": 527,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english178.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english179.txt": {
+      "num_bytes": 494,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english18.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english180.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english181.txt": {
+      "num_bytes": 523,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english19.txt": {
+      "num_bytes": 509,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english2.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english20.txt": {
+      "num_bytes": 518,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english21.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english22.txt": {
+      "num_bytes": 495,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english23.txt": {
+      "num_bytes": 527,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english24.txt": {
+      "num_bytes": 508,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english25.txt": {
+      "num_bytes": 490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english26.txt": {
+      "num_bytes": 506,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english27.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english28.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english29.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english3.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english30.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english31.txt": {
+      "num_bytes": 447,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english32.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english33.txt": {
+      "num_bytes": 491,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english34.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english35.txt": {
+      "num_bytes": 518,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english36.txt": {
+      "num_bytes": 501,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english37.txt": {
+      "num_bytes": 486,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english38.txt": {
+      "num_bytes": 528,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english39.txt": {
+      "num_bytes": 493,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english4.txt": {
+      "num_bytes": 514,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english40.txt": {
+      "num_bytes": 499,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english41.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english42.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english43.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english44.txt": {
+      "num_bytes": 483,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english45.txt": {
+      "num_bytes": 505,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english46.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english47.txt": {
+      "num_bytes": 501,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english48.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english49.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english5.txt": {
+      "num_bytes": 528,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english50.txt": {
+      "num_bytes": 467,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english51.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english52.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english521.txt": {
+      "num_bytes": 453,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english522.txt": {
+      "num_bytes": 426,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english526.txt": {
+      "num_bytes": 444,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english527.txt": {
+      "num_bytes": 447,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english528.txt": {
+      "num_bytes": 452,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english53.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english54.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english55.txt": {
+      "num_bytes": 455,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english56.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english57.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english58.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english59.txt": {
+      "num_bytes": 466,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english6.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english60.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english61.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english62.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english63.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english64.txt": {
+      "num_bytes": 464,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english65.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english66.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english67.txt": {
+      "num_bytes": 467,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english68.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english69.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english7.txt": {
+      "num_bytes": 498,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english70.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english71.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english72.txt": {
+      "num_bytes": 460,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english73.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english74.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english75.txt": {
+      "num_bytes": 463,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english76.txt": {
+      "num_bytes": 466,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english77.txt": {
+      "num_bytes": 513,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english78.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english79.txt": {
+      "num_bytes": 494,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english8.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english80.txt": {
+      "num_bytes": 455,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english81.txt": {
+      "num_bytes": 503,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english82.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english83.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english84.txt": {
+      "num_bytes": 504,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english85.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english86.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english87.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english88.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english89.txt": {
+      "num_bytes": 450,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english9.txt": {
+      "num_bytes": 495,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english90.txt": {
+      "num_bytes": 458,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english91.txt": {
+      "num_bytes": 439,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english92.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english93.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english94.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english95.txt": {
+      "num_bytes": 473,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english96.txt": {
+      "num_bytes": 466,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english97.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english98.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/english99.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/renameE.sh": {
+      "num_bytes": 103,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english1.txt": {
+      "num_bytes": 506,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english10.txt": {
+      "num_bytes": 505,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english100.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english101.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english102.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english103.txt": {
+      "num_bytes": 452,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english104.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english105.txt": {
+      "num_bytes": 482,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english106.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english107.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english108.txt": {
+      "num_bytes": 493,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english109.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english11.txt": {
+      "num_bytes": 435,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english110.txt": {
+      "num_bytes": 448,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english111.txt": {
+      "num_bytes": 438,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english112.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english113.txt": {
+      "num_bytes": 453,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english114.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english115.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english116.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english117.txt": {
+      "num_bytes": 467,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english118.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english119.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english12.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english120.txt": {
+      "num_bytes": 459,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english121.txt": {
+      "num_bytes": 451,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english122.txt": {
+      "num_bytes": 456,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english123.txt": {
+      "num_bytes": 458,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english124.txt": {
+      "num_bytes": 455,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english125.txt": {
+      "num_bytes": 450,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english126.txt": {
+      "num_bytes": 482,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english127.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english128.txt": {
+      "num_bytes": 494,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english129.txt": {
+      "num_bytes": 493,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english13.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english130.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english131.txt": {
+      "num_bytes": 470,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english132.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english133.txt": {
+      "num_bytes": 502,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english134.txt": {
+      "num_bytes": 494,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english135.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english136.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english137.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english138.txt": {
+      "num_bytes": 483,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english139.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english14.txt": {
+      "num_bytes": 470,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english140.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english141.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english142.txt": {
+      "num_bytes": 479,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english143.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english144.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english145.txt": {
+      "num_bytes": 486,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english146.txt": {
+      "num_bytes": 523,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english147.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english148.txt": {
+      "num_bytes": 494,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english149.txt": {
+      "num_bytes": 480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english15.txt": {
+      "num_bytes": 522,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english150.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english151.txt": {
+      "num_bytes": 483,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english152.txt": {
+      "num_bytes": 511,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english153.txt": {
+      "num_bytes": 505,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english154.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english155.txt": {
+      "num_bytes": 474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english156.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english157.txt": {
+      "num_bytes": 502,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english158.txt": {
+      "num_bytes": 500,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english159.txt": {
+      "num_bytes": 501,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english16.txt": {
+      "num_bytes": 499,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english160.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english161.txt": {
+      "num_bytes": 499,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english162.txt": {
+      "num_bytes": 490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english163.txt": {
+      "num_bytes": 477,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english164.txt": {
+      "num_bytes": 551,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english165.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english166.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english167.txt": {
+      "num_bytes": 498,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english168.txt": {
+      "num_bytes": 497,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english169.txt": {
+      "num_bytes": 480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english17.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english170.txt": {
+      "num_bytes": 541,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english171.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english172.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english173.txt": {
+      "num_bytes": 477,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english174.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english175.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english176.txt": {
+      "num_bytes": 504,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english177.txt": {
+      "num_bytes": 523,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english178.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english179.txt": {
+      "num_bytes": 490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english18.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english180.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english181.txt": {
+      "num_bytes": 519,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english19.txt": {
+      "num_bytes": 490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english2.txt": {
+      "num_bytes": 460,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english20.txt": {
+      "num_bytes": 499,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english21.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english22.txt": {
+      "num_bytes": 476,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english23.txt": {
+      "num_bytes": 508,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english24.txt": {
+      "num_bytes": 489,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english25.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english26.txt": {
+      "num_bytes": 487,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english27.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english28.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english29.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english3.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english30.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english31.txt": {
+      "num_bytes": 428,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english32.txt": {
+      "num_bytes": 478,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english33.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english34.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english35.txt": {
+      "num_bytes": 499,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english36.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english37.txt": {
+      "num_bytes": 467,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english38.txt": {
+      "num_bytes": 509,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english39.txt": {
+      "num_bytes": 474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english4.txt": {
+      "num_bytes": 496,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english40.txt": {
+      "num_bytes": 480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english41.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english42.txt": {
+      "num_bytes": 443,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english43.txt": {
+      "num_bytes": 443,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english44.txt": {
+      "num_bytes": 464,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english45.txt": {
+      "num_bytes": 486,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english46.txt": {
+      "num_bytes": 460,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english47.txt": {
+      "num_bytes": 482,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english48.txt": {
+      "num_bytes": 438,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english49.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english5.txt": {
+      "num_bytes": 510,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english50.txt": {
+      "num_bytes": 448,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english51.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english52.txt": {
+      "num_bytes": 446,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english521.txt": {
+      "num_bytes": 449,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english522.txt": {
+      "num_bytes": 422,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english526.txt": {
+      "num_bytes": 440,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english527.txt": {
+      "num_bytes": 443,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english528.txt": {
+      "num_bytes": 448,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english53.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english54.txt": {
+      "num_bytes": 450,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english55.txt": {
+      "num_bytes": 451,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english56.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english57.txt": {
+      "num_bytes": 483,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english58.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english59.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english6.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english60.txt": {
+      "num_bytes": 485,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english61.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english62.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english63.txt": {
+      "num_bytes": 471,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english64.txt": {
+      "num_bytes": 460,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english65.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english66.txt": {
+      "num_bytes": 461,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english67.txt": {
+      "num_bytes": 463,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english68.txt": {
+      "num_bytes": 457,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english69.txt": {
+      "num_bytes": 472,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english7.txt": {
+      "num_bytes": 480,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english70.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english71.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english72.txt": {
+      "num_bytes": 456,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english73.txt": {
+      "num_bytes": 474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english74.txt": {
+      "num_bytes": 467,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english75.txt": {
+      "num_bytes": 459,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english76.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english77.txt": {
+      "num_bytes": 509,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english78.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english79.txt": {
+      "num_bytes": 490,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english8.txt": {
+      "num_bytes": 474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english80.txt": {
+      "num_bytes": 451,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english81.txt": {
+      "num_bytes": 499,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english82.txt": {
+      "num_bytes": 481,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english83.txt": {
+      "num_bytes": 492,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english84.txt": {
+      "num_bytes": 500,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english85.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english86.txt": {
+      "num_bytes": 475,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english87.txt": {
+      "num_bytes": 484,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english88.txt": {
+      "num_bytes": 453,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english89.txt": {
+      "num_bytes": 446,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english9.txt": {
+      "num_bytes": 477,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english90.txt": {
+      "num_bytes": 454,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english91.txt": {
+      "num_bytes": 435,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english92.txt": {
+      "num_bytes": 458,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english93.txt": {
+      "num_bytes": 468,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english94.txt": {
+      "num_bytes": 474,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english95.txt": {
+      "num_bytes": 469,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english96.txt": {
+      "num_bytes": 462,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english97.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english98.txt": {
+      "num_bytes": 465,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/english99.txt": {
+      "num_bytes": 488,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/transcriptions/transcriptions/rename_txt.sh": {
+      "num_bytes": 100,
+      "checksum": null
+    },
+    "/afs/crc.nd.edu/user/r/rshi2/mimik/xlsr-53-english/audios/txtentry.py": {
+      "num_bytes": 1832,
+      "checksum": null
+    }
+  },
+  "download_size": 67994492,
+  "features": {
+    "audio": {
+      "sampling_rate": 16000,
+      "_type": "Audio"
+    },
+    "ipa": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 68098857,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 104365,
+      "num_examples": 186,
+      "dataset_name": "audiofolder"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
